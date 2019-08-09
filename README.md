@@ -1,24 +1,21 @@
-# Weekly Learning Notes
-This page is to track my progress and time spent on coding/learning to code. 
-Weeks are defined as Monday through Sunday. 
-The time is tracked with [Toggle](https://toggl.com/) (best app ever!). 
-My goal is to dedicate at least 20 hours each week to coding (denoted by the ^).
 
-## Pre-Table Notes
- - My first day of the #100DaysOfCode was technically on 04/08/2019.
- - I did not start tracking my time from day 1.
- - However, the majority of the coding/learning at this time was going through the [freeCodeCamp](https://freecodecamp.org) Responsive Web Design section.
- - I started learning Javascript on 4/20 on FCC. It was frustrating
- - because I had trouble absorbing and understanding it. Trying to cram it all in and fully understand it within a week was very unrealistic. I later found that I needed the time in between for the [diffuse mode](https://www.theodinproject.com/courses/web-development-101/lessons/gearing-up) to really start to *get* it. 
- - I started listening to the [CodeNewbie Podcast](https://www.codenewbie.org/podcast) to learn more about other people's journey. 
+# Weekly Learning Notes of an Autodidact
+Are you like me and you are teaching yourself how to code with various resources? When one is stuck in the weeds of the day-to-day, we can lose sight of how far we've come from our very first day and only think about our current difficulties. 
+
+So I created this page to track my progress, the time spent on coding/learning to code, and wins and struggles along the way. 
+
+
+
+## Pre-Notes Notes
+ - My first day of the [#100DaysOfCode](https://twitter.com/AnnCodes/status/1118255929475178496?s=20) was technically on 04/08/2019,  but I did not start tracking my time from day 1 so am missing some notes from that time.
+ - However, the majority of the coding/learning during this non-tracked time was spent going through the [freeCodeCamp](https://freecodecamp.org) Responsive Web Design section, focusing primarily on HTML & CSS of which I am already pretty comfortable with.
+ - I started learning Javascript on 4/20/2019 on FCC. It was frustrating because I had trouble absorbing and understanding it. Trying to cram it all in and fully understand it within a week was very unrealistic. I later found that I needed the time in between for the [diffuse mode](https://www.theodinproject.com/courses/web-development-101/lessons/gearing-up) to really start to *get* it. 
+ - During this time, I started listening to the [CodeNewbie Podcast](https://www.codenewbie.org/podcast) to learn more about other people's journey. It is a useful tool to keep me motivated and entertained on my daily commute. 
  
- ## Weekly Progress
+ ## Weekly Progress Notes 
+ *The goal is to dedicate at least 20 hours each week to coding as denoted by ^ when it is a good week.  Weeks are defined as Monday through Sunday and is ordered by most recent. Time is tracked with [Toggle](https://toggl.com/) (best app ever!) and this file is sometimes edited in [StackEdit](https://stackedit.io).*
  
- 
- 
- 
- 
- 
+
  
 **Week 16: 07/29 - 08/04: 15hrs 17min**
 -   The week started out strong with working on the  [Javascript Calculator](https://ann-codes.github.io/javascript-calculator/)  project. More time was spent on it than expected because I started by going down the wrong path (pushing numbers into arrays and other inefficient ways of doing things). I ended up starting again from scratch after about 3hrs of coding. The minimum requirements were finished by Saturday, but I still need to add in keyboard support.
