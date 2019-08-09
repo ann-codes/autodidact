@@ -12,7 +12,37 @@ My goal is to dedicate at least 20 hours each week to coding (denoted by the ^).
  - because I had trouble absorbing and understanding it. Trying to cram it all in and fully understand it within a week was very unrealistic. I later found that I needed the time in between for the [diffuse mode](https://www.theodinproject.com/courses/web-development-101/lessons/gearing-up) to really start to *get* it. 
  - I started listening to the [CodeNewbie Podcast](https://www.codenewbie.org/podcast) to learn more about other people's journey. 
  
-**Week 12: 07/01 - 07/07: 32hrs 13min^**
+ ## Weekly Progress
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+**Week 16: 07/29 - 08/04: 15hrs 17min**
+-   The week started out strong with working on the  [Javascript Calculator](https://ann-codes.github.io/javascript-calculator/)  project. More time was spent on it than expected because I started by going down the wrong path (pushing numbers into arrays and other inefficient ways of doing things). I ended up starting again from scratch after about 3hrs of coding. The minimum requirements were finished by Saturday, but I still need to add in keyboard support.
+-   I was ready to put in at least 10 hours over the weekend, but a shitty work related email on Friday derailed me and I had to spend the weekend getting out of that hole.
+-   I changed my personal branding from "AnnCanCode" to just "AnnCodes" of which includes  [Github](https://github.com/ann-codes)  that then changed all the URLs for the various projects. Good thing I don't have too many right now!
+-   I decided to do at least 1 coding challenge a day just to keep me on my toes. I'm planning on using [CodeSignal.com](https://app.codesignal.com/profile/anncodes)  (but will also still use Edabit and Codewars). The site itself is an amazing example of UX and gamefication done right.
+
+**Week 15: 07/22 - 07/28: 25hrs 23min^**
+-   Had a 6hr day on Monday and got to 50% of Andrew Mead's Modern JS Bootcamp.
+-   The rest of the weekdays were largely working on the next Odin Project Challenge, the  [etch-a-sketch](https://ann-codes.github.io/top-etch-a-sketch/). I spent about 17 hours on it with, about 4 on set up and writing the logic, about 3 hours on CSS, and about 10 hours solely on bug hunting because things just were not working as intended.  [Let's just say I learned what NOT to do with event listeners](https://anncodes.blogspot.com/2019/07/day-115-etch-sketch-project.html).
+
+**Week 14: 07/15 - 07/21: 17hrs 38mins**
+-   Reached my Day100 on July 16! Not much fanfare and I am not going to stop. Started Day101 on July 17.
+-   I'm trying to quickly work through the Modern Javascript Bootcamp w/ Andrew Mead, targeting projects. His style is very Functional Programming-y which is helpful reinforcement.
+-   Decided to go through the projects on  [the Odin Project](http://theodinproject.com/)  with the Rock, Paper, Scissors project as the first stop.  [Started and completed it, with sound](https://github.com/ann-codes/top-rock-paper-scissors)!
+-   Also got my  [first Pull Request](https://anncodes.blogspot.com/2019/07/day-103-first-pull-request.html)  accepted and merged to the Odin Project!
+-   We were in the middle of a heatwave over the weekend so I barely got any time in over the weekend. Excessive heat is such a huge de-motivator.
+
+**Week 13: 07/08 - 07/14: 24hrs 6mins^**
+-   I realized that the 100th day of my #100DaysOfCode was coming fast! I also realized I was getting so close to finishing my second FCC certificate. So this week was all about getting that FCC certificate on or before day 100!
+-   I spent a lot of time working through the FCC Intermediate Algorithms but did not finish it all. I will revisit them later and slowly get through the tougher ones.
+-   I decided to go ahead with completing the JS and Algorithm projects instead... and yes, I managed to get my certificate upon completing the last problem in the section. I did spend nearly 10 hours on it though and [blogged about it](https://anncodes.blogspot.com/2019/07/day-097-freecodecamp-javascript.html).
+
+**Week 12: 07/01 - 07/07: 32hrs 13mins^**
 -   This was a great week full of completions. Finished most sections in the FCC JS and Algorithms section with the exception of the Intermediate Algorithms section. Finished the Codecademy Intro to JS course (which was great!). And the biggy was finishing Angela Yu's [Complete 2019 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
 -   This was all thanks to having my second "Personal Mini Bootcamp" renamed to "Personal Hackathon" 4-day weekend starting from July 4th to July 7th with the goal of coding/learning to code at least 6 hours each day.
 -   This week was all about authentication/security, JS asyncs, and APIs. I wrote some basic code for my  [Dad Joke project](https://codepen.io/4nn/pen/NZLXaw)  using the Icanhazdadjoke API. Learned lots.
