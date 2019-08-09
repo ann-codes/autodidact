@@ -1,4 +1,3 @@
-
 # Weekly Learning Notes of an Autodidact
 Are you like me and you are teaching yourself how to code with various resources? When one is stuck in the weeds of the day-to-day, we can lose sight of how far we've come from our very first day and only think about our current difficulties. 
 
@@ -87,3 +86,6 @@ So I created this page to track my progress, the time spent on coding/learning t
 -   Finished [Practical JS](https://watchandcode.com/p/practical-javascript)  on WatchAndCode.com, the first course I finished from beginning to end and I did have trouble keeping up and retaining the info.
 -   I thought I learned best as a reader through tutorials and written descriptions, but in experiencing the Practical JS course, I found with coding that I need visuals, demonstrations, and things explained to me in different ways more than once for me to understand it.
 -   Joined a bunch of Newbie groups on Facebook (Newbie Coder Warehouse, Code Newbie, FCC Boston - though I am yet to physically attend anything)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTc2ODQxOTE3Ml19
+-->
