@@ -15,7 +15,10 @@ So I created this page to track my progress, the time spent on coding/learning t
  *The goal is to dedicate at least 20 hours each week to coding as denoted by ^ when it is a good week.  Weeks are defined as Monday through Sunday and is ordered by most recent. Time is tracked with [Toggle](https://toggl.com/) (best app ever!) and this file is sometimes edited in [StackEdit](https://stackedit.io).*
  
 
- 
+**Week 17: 08/05 - 08/11: 15hrs 1min**
+-   This week was not as productive as I liked. I have been working on the latest project on The Oding Project, which is to build a [Pomodoro Clock](https://www.theodinproject.com/courses/web-development-101/lessons/pairing-project). It's also a project for FCC that I will refactor later. ~11 hours was spent on this project and it is still not done (granted, I did put in more effort on the styling and am optionally including [ProgressBar.js](https://kimmobrunfeldt.github.io/progressbar.js/) in the project). 
+-   The hope was to finish it over the weekend, but it's getting to the end of summer so family and friends have been throwing a lot of events over the weekend. I'd end up putting in a bit of time right before bed (sometimes in bed) that often goes into the AM and being sleepy is not the best mindset to be coding in. I am going to try to find different ways to balance this for the next week. 
+
 **Week 16: 07/29 - 08/04: 15hrs 17min**
 -   The week started out strong with working on the  [Javascript Calculator](https://ann-codes.github.io/javascript-calculator/)  project. More time was spent on it than expected because I started by going down the wrong path (pushing numbers into arrays and other inefficient ways of doing things). I ended up starting again from scratch after about 3hrs of coding. The minimum requirements were finished by Saturday, but I still need to add in keyboard support.
 -   I was ready to put in at least 10 hours over the weekend, but a shitty work related email on Friday derailed me and I had to spend the weekend getting out of that hole.
