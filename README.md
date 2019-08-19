@@ -14,18 +14,22 @@ So I created this page to track my progress, the time spent on coding/learning t
  ## Weekly Progress Notes 
  *The goal is to dedicate at least 20 hours each week to coding as denoted by ^ when it is a good week.  Weeks are defined as Monday through Sunday and is ordered by most recent. Time is tracked with [Toggle](https://toggl.com/) (best app ever!) and this file is sometimes edited in [StackEdit](https://stackedit.io).*
  
+**Week 18: 08/12 - 08/18: 15hrs 2mins**
+-   Not the best week, but I guess I beat last week by a minute? 
+-   9 hours were spent on the Pomodoro clock project. I ended up redoing a great deal of it from using Date() to track time to just using only setInterval() since that was the simpler solution. This was what I should have done at the very beginning, but didn't because I like to complicate things for myself. I also intended to use ProgressBar.js, but I was not able to get it working with a pause functionality. It appears that other people trying to do the same thing encountered similar issues and am not experienced enough to resolve that with the library. However, I will attempt to create my own progress bar (or circle in this case) on my own with CSS. 
+-   This week, after fishing for an excuse to myself, I finally admitted to myself that I had been unmotivated and dragging my feet on working on coding and working on projects because this is **HARD** and frustrating and sometimes I just don't want to feel so dumb all the time. There are no other excuses. It's the nature of coding to have the high highs and low lows and it's something I need to get used to and just keep putting in my time. 
 
 **Week 17: 08/05 - 08/11: 15hrs 1min**
 -   This week was not as productive as I liked. I have been working on the latest project on The Oding Project, which is to build a [Pomodoro Clock](https://www.theodinproject.com/courses/web-development-101/lessons/pairing-project). It's also a project for FCC that I will refactor later. ~11 hours was spent on this project and it is still not done (granted, I did put in more effort on the styling and am optionally including [ProgressBar.js](https://kimmobrunfeldt.github.io/progressbar.js/) in the project). 
 -   The hope was to finish it over the weekend, but it's getting to the end of summer so family and friends have been throwing a lot of events over the weekend. I'd end up putting in a bit of time right before bed (sometimes in bed) that often goes into the AM and being sleepy is not the best mindset to be coding in. I am going to try to find different ways to balance this for the next week. 
 
-**Week 16: 07/29 - 08/04: 15hrs 17min**
+**Week 16: 07/29 - 08/04: 15hrs 17mins**
 -   The week started out strong with working on the  [Javascript Calculator](https://ann-codes.github.io/javascript-calculator/)  project. More time was spent on it than expected because I started by going down the wrong path (pushing numbers into arrays and other inefficient ways of doing things). I ended up starting again from scratch after about 3hrs of coding. The minimum requirements were finished by Saturday, but I still need to add in keyboard support.
 -   I was ready to put in at least 10 hours over the weekend, but a shitty work related email on Friday derailed me and I had to spend the weekend getting out of that hole.
 -   I changed my personal branding from "AnnCanCode" to just "AnnCodes" of which includes  [Github](https://github.com/ann-codes)  that then changed all the URLs for the various projects. Good thing I don't have too many right now!
 -   I decided to do at least 1 coding challenge a day just to keep me on my toes. I'm planning on using [CodeSignal.com](https://app.codesignal.com/profile/anncodes)  (but will also still use Edabit and Codewars). The site itself is an amazing example of UX and gamefication done right.
 
-**Week 15: 07/22 - 07/28: 25hrs 23min^**
+**Week 15: 07/22 - 07/28: 25hrs 23mins^**
 -   Had a 6hr day on Monday and got to 50% of Andrew Mead's Modern JS Bootcamp.
 -   The rest of the weekdays were largely working on the next Odin Project Challenge, the  [etch-a-sketch](https://ann-codes.github.io/top-etch-a-sketch/). I spent about 17 hours on it with, about 4 on set up and writing the logic, about 3 hours on CSS, and about 10 hours solely on bug hunting because things just were not working as intended.  [Let's just say I learned what NOT to do with event listeners](https://anncodes.blogspot.com/2019/07/day-115-etch-sketch-project.html).
 
