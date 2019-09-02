@@ -14,6 +14,14 @@ So I created this page to track my progress, the time spent on coding/learning t
  ## Weekly Progress Notes 
  *The goal is to dedicate at least 20 hours each week to coding as denoted by ^ when it is a good week.  Weeks are defined as Monday through Sunday and is ordered by most recent. Time is tracked with [Toggle](https://toggl.com/) (best app ever!) and this file is sometimes edited in [StackEdit](https://stackedit.io).*
  
+
+ 
+**Week 19: 08/19 - 08/25: 20hrs 3mins^**
+-   This week had a good start as I was wrapping up the [Pomodoro Clock project](https://ann-codes.github.io/javascript-pomodoro-clock/)  (it's finally done!), but tapered out a bit in the middle as I was figuring out the next steps/projects to work on. I waffled on whether or not to start the next Odin Project (building a "library" a la to-do list) or to finish up some languishing Udemy courses. 
+-   I decided to go with the Udemy courses and plan to finish the [Modern Javascript Bootcamp](https://www.udemy.com/course/modern-javascript/) with Andrew Mead before starting another project since a lot of the activities seem to cover the next few projects I will be working, it seemed like a good refresher. So that was the bulk of the activity for the remainder of the week, ending at about 71% or so complete (from 50%). 
+-   I am still working on at least a daily code problem on [CodeSignal](https://www.codesignal.com) although I do occassionally use Edabit and/or Codewars as the mood strikes me. 
+-   During down time such as my lunch break, car rides, time before bed, or when I have a moment to myself but can't get in front of a computer, I've been watching the Linkedin Learning courses following their Become a [Front-End Web Developer](https://www.linkedin.com/learning/paths/become-a-front-end-web-developer) track and their [Become a Full-Stack Web Developer](https://www.linkedin.com/learning/paths/become-a-full-stack-web-developer) track. I don't really code along all that much, though I do sometimes when a particular project or exercise seems interesting enough to do so. 
+ 
 **Week 18: 08/12 - 08/18: 15hrs 2mins**
 -   Not the best week, but I guess I beat last week by a minute? 
 -   9 hours were spent on the Pomodoro clock project. I ended up redoing a great deal of it from using Date() to track time to just using only setInterval() since that was the simpler solution. This was what I should have done at the very beginning, but didn't because I like to complicate things for myself. I also intended to use ProgressBar.js, but I was not able to get it working with a pause functionality. It appears that other people trying to do the same thing encountered similar issues and am not experienced enough to resolve that with the library. However, I will attempt to create my own progress bar (or circle in this case) on my own with CSS. 
