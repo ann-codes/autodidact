@@ -3,16 +3,10 @@ Are you like me and you are teaching yourself how to code with various resources
 
 So I created this page to track my progress, the time spent on coding/learning to code, and wins and struggles along the way. 
 
-
-
-## Pre-Notes Notes
- - My first day of the [#100DaysOfCode](https://twitter.com/AnnCodes/status/1118255929475178496?s=20) was technically on 04/08/2019,  but I did not start tracking my time from day 1 so am missing some notes from that time.
- - However, the majority of the coding/learning during this non-tracked time was spent going through the [freeCodeCamp](https://freecodecamp.org) Responsive Web Design section, focusing primarily on HTML & CSS of which I am already pretty comfortable with.
- - I started learning Javascript on 4/20/2019 on FCC. It was frustrating because I had trouble absorbing and understanding it. Trying to cram it all in and fully understand it within a week was very unrealistic. I later found that I needed the time in between for the [diffuse mode](https://www.theodinproject.com/courses/web-development-101/lessons/gearing-up) to really start to *get* it. 
- - During this time, I started listening to the [CodeNewbie Podcast](https://www.codenewbie.org/podcast) to learn more about other people's journey. It is a useful tool to keep me motivated and entertained on my daily commute. 
- 
  ## Weekly Progress Notes 
- *The goal is to dedicate at least 20 hours each week to coding as denoted by ^ when it is a good week.  Weeks are defined as Monday through Sunday and is ordered by most recent. Time is tracked with [Toggle](https://toggl.com/) (best app ever!) and this file is sometimes edited in [StackEdit](https://stackedit.io).*
+*The goal is to dedicate at least 20 hours each week to coding as denoted by ^ when it is a good week.  Weeks are defined as Monday through Sunday and is ordered by most recent. Time is tracked with [Toggle](https://toggl.com/) (best app ever!) and this file is sometimes edited in [StackEdit](https://stackedit.io).*
+
+Start at the bottom at the beginning and the [pre-note notes](https://ann-codes.github.io/autodidact/#pre-notes-notes).  
  
 **Week 20: 08/26 - 09/01: 7hrs 53mins**
 -   To put it plainly, this was not a good week for coding and IRL stuff. Work is now in one of its high seasons and has been getting more stressful which leaves less mental capacity to think/learn coding. There has also been some personal issues that have been occupying my spare time as well. While I still code or do something coding in some capacity each day, some days only saw at best 20 mins or so going through a CodeSignal problem and that's it. 
@@ -104,6 +98,12 @@ So I created this page to track my progress, the time spent on coding/learning t
 -   Finished [Practical JS](https://watchandcode.com/p/practical-javascript)  on WatchAndCode.com, the first course I finished from beginning to end and I did have trouble keeping up and retaining the info.
 -   I thought I learned best as a reader through tutorials and written descriptions, but in experiencing the Practical JS course, I found with coding that I need visuals, demonstrations, and things explained to me in different ways more than once for me to understand it.
 -   Joined a bunch of Newbie groups on Facebook (Newbie Coder Warehouse, Code Newbie, FCC Boston - though I am yet to physically attend anything)
+
+## Pre-Notes Notes
+ - My first day of the [#100DaysOfCode](https://twitter.com/AnnCodes/status/1118255929475178496?s=20) was technically on 04/08/2019,  but I did not start tracking my time from day 1 so am missing some notes from that time.
+ - However, the majority of the coding/learning during this non-tracked time was spent going through the [freeCodeCamp](https://freecodecamp.org) Responsive Web Design section, focusing primarily on HTML & CSS of which I am already pretty comfortable with.
+ - I started learning Javascript on 4/20/2019 on FCC. It was frustrating because I had trouble absorbing and understanding it. Trying to cram it all in and fully understand it within a week was very unrealistic. I later found that I needed the time in between for the [diffuse mode](https://www.theodinproject.com/courses/web-development-101/lessons/gearing-up) to really start to *get* it. 
+ - During this time, I started listening to the [CodeNewbie Podcast](https://www.codenewbie.org/podcast) to learn more about other people's journey. It is a useful tool to keep me motivated and entertained on my daily commute. 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTc2ODQxOTE3Ml19
 -->
