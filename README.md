@@ -3,13 +3,13 @@ Are you like me and you are teaching yourself how to code with various resources
 
 So I created this page to track my progress, the time spent on coding/learning to code, and wins and struggles along the way. 
 
- ## Weekly Progress Notes 
+## Weekly Progress Notes
 *The goal is to dedicate at least 20 hours each week to coding as denoted by ^ when it is a good week.  Weeks are defined as Monday through Sunday and is ordered by most recent. Time is tracked with [Toggle](https://toggl.com/) (best app ever!) and this file is sometimes edited in [StackEdit](https://stackedit.io).*
 
 Start at the bottom at the beginning and the [pre-note notes](https://ann-codes.github.io/autodidact/#pre-notes-notes).  
  
 **Week 21: 09/02 - 09/08: 6hrs 26mins**
--   A new low in time this week! But that is OK! This was not the best week in part due busy day job obligations (those that work in a education administration know what I am talking about) as well as spending time continuing to apply for tech-ish jobs. These jobs aren't really developement jobs, but may have some development responsibilities as part of it. Since I know I am no longer planning on following the education administration career trajectory, I've decided to focus more on finding a role that is better suited to where I want to do. I am doing this in part because I expect the process to find my first actual dev job to be a long haul and I need to find a good place to hunker down while learning. Of note is that 3 applications (with individualized cover letters and resumes) were submitted this week!
+-   A new low in time this week! But that is OK! This was not the best week in part due busy day job obligations (those that work in a education administration know what I am talking about) as well as spending time continuing to apply for tech-ish jobs. These jobs aren't really developement jobs, but may have some development responsibilities as part of it. Since I am no longer planning on following the education administration career trajectory, I've decided to focus on finding a role that is better suited to pointing me on the right direction. I am doing this in part because I expect the processofto finding my first actual dev job to be a long haul and I need a good place to hunker down while learning. Of note is that 3 applications (with individualized cover letters and resumes) were submitted this week!
 -   The coding activities are my daily coding challenges where I have been digging into the mySQL challenges in codesignal and learning a lot.
 -   I still need to finish up that Modern JS Bootcamp and did some videos at the beginning of this week. I am also still plugging along the courses in the Linkedin Learning [Become a Front-End Web Developer](https://www.linkedin.com/learning/paths/become-a-front-end-web-developer) track. 
 
