@@ -9,7 +9,7 @@ So I created this page to track my progress, the time spent on coding/learning t
 Start at the bottom at the beginning and the [pre-note notes](https://ann-codes.github.io/autodidact/#pre-notes-notes).  
  
 **Week 23: 09/16 - 09/22: 7hrs 20mins**
--   Last week was finally back to the minimum of 7hr/week, 1hr/day. The high season at work started slowing down at the end of this week though I floundered around a bit because I wasn't sure how to get back into the groove after 3 weeks away. 
+-   Last week was finally back to the minimum of 7hr/week, 1hr/day. The high season at work started slowing down at the end of this week though I floundered around a bit because I wasn't sure how to get back into the groove after 4 weeks of distraction. 
 -   Much of my time this week was spent on [CodeSignal.com](http://CodeSignal.com) learning MySQL with some JS coding problems here or there. 
 -   I also finished up a short course on [Golang](https://www.linkedin.com/learning/learning-go/) on Linkedin Learning. I really enjoyed it (because I could actually follow along and understand things!), but it barely touched the surface. I am probably going to shelve learning Go and refocus on JS though. 
 -   Of the 6 applications sent, I got 1 denied, 2 pulled the listing, and 2 taking a long time to get back (2 weeks+) so I am assuming I got ghosted. The last one has an application deadline of 9/26 so I am hoping they will contact people after that time. 
