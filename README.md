@@ -8,11 +8,18 @@ So I created this page to track my progress, the time spent on coding/learning t
 
 Start at the bottom at the beginning and the [pre-note notes](https://ann-codes.github.io/autodidact/#pre-notes-notes).  
  
+**Week 23: 09/16 - 09/22: 7hrs 20mins**
+-   Last week was finally back to the minimum of 7hr/week, 1hr/day. The high season at work started slowing down at the end of this week though I floundered around a bit because I wasn't sure how to get back into the groove after 3 weeks away. 
+-   Much of my time this week was spent on [CodeSignal.com](http://CodeSignal.com) learning MySQL with some JS coding problems here or there. 
+-   I also finished up a short course on [Golang](https://www.linkedin.com/learning/learning-go/) on Linkedin Learning. I really enjoyed it (because I could actually follow along and understand things!), but it barely touched the surface. I am probably going to shelve learning Go and refocus on JS though. 
+-   Of the 6 applications sent, I got 1 denied, 2 pulled the listing, and 2 taking a long time to get back (2 weeks+) so I am assuming I got ghosted. The last one has an application deadline of 9/26 so I am hoping they will contact people after that time. 
+-   I mentioned in the last post that I made it to the next step for the [Apprenti](https://apprenticareers.org/apply/) tech apprentiship program. The phone screen is the first of 3 possible interviews. 1) phone screen with Apprenti 2) in person interview with Apprenti 3) technical interview with the hiring partner which is where they would determine whether or not to hire me before officially getting accepted to the program. Dang, that is scary! But it is also very good motivation to get back to the hustle of self learning. I need to be ready if I hope to advance all the way through. 
+ 
 **Week 22: 09/09 - 09/15: 4hrs 8mins**
 -   How low can I go? Pretty low it seems! I am still doing at minimum a daily coding problem each day. Hence the very low (to me) total coding time above. 
 -   However, the time doesn't include job applications, studying for the assessment test, or the networking muscles I have been flexing (very proud of myself here because this awkward panda is definitely not an extrovert).  
 -   2 applications were completed this week. Those are the last ones on my list so I am done with applications for now, although I will keep my eyes peeled for tech-ish jobs. I think I have a very good chance of at least getting an interview at one of these 2 since some responsibilities are rare and niche to what I currently do (though not as tech related as I'd like). 
--   I took the assessment test and scored an 89% (got my butt kicked in the critical thinking part) which I didn't think was good enough and was planning on continuing to study and retake it. But as a spoiler for next week, I was shockingly contacted to set up the initial phone screen! It is scheduled for 9/27. I am VERY EXCITED! I made it past step 1! WHOA!
+-   I took the assessment test and scored an 89% (got my butt kicked in the critical thinking part) which I didn't think was good enough and was planning on continuing to study and retake it. But as a spoiler for next week, I was shockingly contacted to set up the initial phone screen! It is scheduled for 9/27. I am VERY EXCITED! I made it to the next step! WHOA!
 -   I had less than 150 Linkedin connections a few weeks ago and made a concerted effort to utilze it a bit more and grow my network. My connections are currently at 199. I've learned that it is a great tool to start a conversation!
 -   After going to the Apprenti event last week and connecting with folks and actually doing post-event communication and meetups, I've made my first real life coding buddy! 
  
