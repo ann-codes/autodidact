@@ -8,6 +8,12 @@ So I created this page to track my progress, the time spent on coding/learning t
 
 Start at the bottom at the beginning and the [pre-note notes](https://ann-codes.github.io/autodidact/#pre-notes-notes).  
  
+**Week 24: 09/23 - 09/29: 10hrs 1min**
+-   I did a bit better this week than last week. Most of it was trying to get back to the swing of things and finishing up the Modern Javascript Bootcamp. I started to review some of the Zero to Mastery videos as well since that will be the next course after finishing the JS Bootcamp. 
+-   I'm having my first vacation in about 3 years next week so my mind was preoccupied with planning and packing for that. I do intend to still continue coding each day, even while on vacation!
+-   I had the initial phone screen on the 27th and it went well enough! Fingers crossed that I move to the next round!
+-   Sadly, I lost my daily streak on CodeSignal and ended with a 52 day streak of doing at least one problem a day! I think I will do something similar on Codewars or Edabit next since I prefer their problem sets more. 
+ 
 **Week 23: 09/16 - 09/22: 7hrs 20mins**
 -   Last week was finally back to the minimum of 7hr/week, 1hr/day. The high season at work started slowing down at the end of this week though I floundered around a bit because I wasn't sure how to get back into the groove after 4 weeks of distraction. 
 -   Much of my time this week was spent on [CodeSignal.com](http://CodeSignal.com) learning MySQL with some JS coding problems here or there. 
