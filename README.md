@@ -7,12 +7,18 @@ So I created this page to track my progress, the time spent on coding/learning t
 *The goal is to dedicate at least 20 hours each week to coding as denoted by ^ when it is a good week.  Weeks are defined as Monday through Sunday and is ordered by most recent. Time is tracked with [Toggle](https://toggl.com/) (best app ever!) and this file is sometimes edited in [StackEdit](https://stackedit.io).*
 
 Start at the bottom at the beginning and the [pre-note notes](https://ann-codes.github.io/autodidact/#pre-notes-notes).  
+
+**Week 25: 09/30 - 10/06: 6hrs 2mins**
+-   I flew out on Monday for vacation and came back on Friday. And while it is not the best effort in terms of raw time, I did manage to get some coding in on the flight there and the evenings at the hotel. Granted some of the days I passed out watching stuff 15 minutes into it (there is a lot of walking during the day and I was mostly wiped out by the time I was back at the hotel), I still counts for me and I haven't missed a day yet. 
+-   I finally finished the [Modern Javascript Bootcamp](https://www.udemy.com/course/modern-javascript/) with Andrew Mead! I need to write a review for the course, but the long and short of it is that it is an excellent course. Maybe it is not the best one for an absolute beginner since he uses node.js. An intermediate-advanced beginner will get a lot out of it. I also enjoy his teaching style which is very similar to my favorite Udemy instructor Angela Yu. 
+-   Other than finishing up Andrew's course, I am continuing with Andrei Neagoie's [Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) bootcamp and should be getting into the React sections soon enough. 
+-   Interview alert! While on vacation, I heard back from one of the job applications for an initial phone interview. We scheduled it on Monday 10/6. I also heard back from Apprenti about moving to the in-person interview with the organization. There appears to be about 40ish people who advanced to this stage where they will be further whittling down before the hiring partner interviews next. There are 13-15 spots with hiring partners, so my odds aren't too bad!
  
 **Week 24: 09/23 - 09/29: 10hrs 1min**
--   I did a bit better this week than last week. Most of it was trying to get back to the swing of things and finishing up the Modern Javascript Bootcamp. I started to review some of the Zero to Mastery videos as well since that will be the next course after finishing the JS Bootcamp. 
+-   I did a bit better this week in terms of time than last week. Most of it was trying to get back to the swing of things and finishing up the Modern Javascript Bootcamp. I started to review Andrei Neagoie's [The Complete Web Developer in 2019: Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) bootcamp videos since that will be the next course after finishing the JS Bootcamp. 
 -   I'm having my first vacation in about 3 years next week so my mind was preoccupied with planning and packing for that. I do intend to still continue coding each day, even while on vacation!
--   I had the initial phone screen on the 27th and it went well enough! Fingers crossed that I move to the next round!
--   Sadly, I lost my daily streak on CodeSignal and ended with a 52 day streak of doing at least one problem a day! I think I will do something similar on Codewars or Edabit next since I prefer their problem sets more. 
+-   I had the initial phone screen for the Apprenti program on the 27th and it went well enough! Fingers crossed that I move to the next round!
+-   Sadly, I lost my daily streak on CodeSignal, though I ended with a 52 day streak of doing at least one problem a day! I think I will do something similar on Codewars or Edabit next since I prefer their UI and set up more. 
  
 **Week 23: 09/16 - 09/22: 7hrs 20mins**
 -   Last week was finally back to the minimum of 7hr/week, 1hr/day. The high season at work started slowing down at the end of this week though I floundered around a bit because I wasn't sure how to get back into the groove after 4 weeks of distraction. 
