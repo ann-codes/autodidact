@@ -8,7 +8,13 @@ So I created this page to track my progress, the time spent on coding/learning t
 
 Start at the bottom at the beginning and the [pre-note notes](https://ann-codes.github.io/autodidact/#pre-notes-notes).  
 
-**Week 26: 10/07 - 10/14: 7hrs 13mins**
+**Week 27: 10/14 - 10/20: 8hrs 49mins**
+-   Slight improvement in terms of time from last week. 
+-   I spent ~80% of the time still working through the HackReactor Basics Prep for their technical interview I have scheduled on 10/26, although there is a possibility that I will delay it another week so I can actually complete the course. The idea of a technical interview  is really intimidating so I want to be prepared. I've been working on their scholarship application as well which takes a lot of time that isn't being tracked. 
+-   I've started watching [Crash Course Computer Science](https://thecrashcourse.com/courses/computerscience) hosted by [Carrie Anne Philbin](https://about.me/carrieannephilbin) so I can better understand foundational CS concepts. They are conceptual, non-programming videos and are about 10 minutes long but packed with so much information. I will likely watch this series over multiple times. Currently on Episode 8. 
+-   Opportunity updates: The remote Apprenti interview schdeduled on 10/18 went *really* well. It is part interview and part mechanism to practice and get feedback. The feedback I received was great with some small constructive criticsism that I hope to improve on. I should know whether or not I advanced in about a week or so. I did hear that they are expecting to cut down from a pool of around 40 candidates to 24, as they have 12 openings and want their employer partners to be able to interview about 2 candidates each. Not bad odds, but not the best either. 
+
+**Week 26: 10/07 - 10/13 7hrs 13mins**
 -   Another slow week. A great deal of it is due to seeing action in the interviewing fronts! This is awesome, but also not great for me because the options are so very different and it is really hard to focus on one thing. 
 -   Opportunity A: In the last post, I heard back from Apprenti about moving on to the Staff Interview portion, but this week I finally got something on the books! The Staff Interview is scheduled for 10/18. They allowed for a remote option (which is super fantastic of them) and that is what I will be doing. Super nervous! They also set up some interview prep workshops which I was sadly not able to make. I hope that doesn't bite me in the butt. 
 -   Opportunity B: I had a phone interview on 10/07 for one of the tech-ish jobs I applied to. It went well enough, but who knows what I am really up against? This job is an Instructional Technologist role for a university. At best it has maybe 5-10% of simple coding work, but much of it is technical setup and support for various learning tools. 
