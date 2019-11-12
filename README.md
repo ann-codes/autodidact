@@ -8,6 +8,13 @@ So I created this page to track my progress, the time spent on coding/learning t
 
 Start at the bottom at the beginning and the [pre-note notes](https://ann-codes.github.io/autodidact/#pre-notes-notes).  
 
+**Week 30: 11/04 - 11/10: 15hrs 40mins**
+-   This week's efforts was not bad and the long weekend certainly helped. 
+-   I didn't hear back from any opportunity this week and was only hoping I would get lucky that they would be a bit early on their "mid-November" timeline, but that didn't happen. I did however meet with a tech director at my current workplace who referred me to an administrator position which I will be applying for. While it's not a coding job (like zero parts coding), at least it is in the IT department so I will give it a go. 
+-   I've been applying to various bootcamps and have been getting in touch with their admissions officer. This is in case no apprenticeships or new employment work out, and that I do not get accepted into HackReactor. I am heavily considering [Thinkful](https://www.thinkful.com/bootcamp/web-development/full-time/) as my second choice bootcamp or possibly even first choice if I don't get the HackReactor scholarship (which is already a longshot by definition)? I really like what I am hearing from former students and their guarentees online. 
+-   The LighthouseLabs daily challenge, some Codewars problems, and CSS courses in TeamTreehouse each took about 2-ish hours of my time. 
+-   About 8 hours of time went to the HackReactor Prep course. I am nearing the end of this course and started doing problems and recording myself going through them. It is a really eye opening experience and I do need to work on talking through the problem better. 
+
 **Week 29: 10/28 - 11/03: 10hrs 3mins**
 -   Not too pleased with the amount of time spent this week. What's my excuse? With stress from the day job and putting pressure on myself, I am feeling kind of burnt out. I rebelled by playing more video games than coding this week. 
 -   I do want to note that the [LighthouseLabs](https://coding-challenge.lighthouselabs.ca/) started their new 21-day coding challenge again! So far, the problems have been very straightforward. I do appreciate how far along I've come from the first challenge with them that I bumbled along spending hours on a single problem to actually understanding things and solving the problems quickly this time around!
