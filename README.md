@@ -8,6 +8,14 @@ So I created this page to track my progress, the time spent on coding/learning t
 
 Start at the bottom at the beginning and the [pre-note notes](https://ann-codes.github.io/autodidact/#pre-notes-notes).  
 
+**Week 31: 11/11 - 11/17: 10hrs 20mins**
+-   This week actually started out strong, but started fizzling on Thursday because I started working on yet another job application, the internal one I referenced last week. I was lukewarm about it, but met with the person who was in the role previously who sold me on it, so am throwing my hat in the ring. The end of the weekend was spent dedicating more time to it than I prefer. Tailoring resumes and cover letters to a job always takes so much more time that I expect. 
+-   About 4 hours was spent on working through HackReactor problems and recording myself while coding. I am showing a slight improvement of instead of just freezing up and getting all nervous (not that anyone would ever see these videos), but actually going through the coding process. I still need to work on the articulation of my thought process. 
+-   About 3 hours was going through TeamTreeHouse courses in CSS. CSS makes me happy and I find it fun to work with. It's helping to give ideas on designing my portfolio site. 
+-   About 2.5 hours was working through the daily coding challenges for the Lighthouse Labs 21-Day coding. I recall struggling through the last round way back in weeks 4-7 and this time around has been SO fun. Most of the problems are on the easy side, but I have been challenging myself by solving it with map, filter, reduce, etc. 
+-   About 1 hour was spent on a Linkedin Learning course on VBA programming in Microsoft Excel. I knew a bit of it from way back (in the copy and pasting and not understanding how it works sense) and wanted to understand it better for that job I am applying to.
+-   Lastly... on Monday, 11/18, I heard back from Apprenti... sorry no spoilers! Stay tuned to find out what happens! 
+
 **Week 30: 11/04 - 11/10: 15hrs 40mins**
 -   This week's efforts was not bad and the long weekend certainly helped. 
 -   I didn't hear back from any opportunity this week and was only hoping I would get lucky that they would be a bit early on their "mid-November" timeline, but that didn't happen. I did however meet with a tech director at my current workplace who referred me to an administrator position which I will be applying for. While it's not a coding job (like zero parts coding), at least it is in the IT department so I will give it a go. 
