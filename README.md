@@ -8,11 +8,11 @@ So I created this page to track my progress, the time spent on coding/learning t
 
 Start at the bottom at the beginning and the [pre-note notes](https://ann-codes.github.io/autodidact/#pre-notes-notes).  
 
-**WEEK 35: 12/30/2019 - 01/05/2020: XXhrs XXmins**
--   Since I am enrolling into a [bootcamp](https://launchacademy.com/), I guess posting to the [autodidact](https://ann-codes.github.io/autodidact/) will no longer completely true. I've created a new [learning notes](https://ann-codes.github.io/learning-notes/) repo in the same format so that I can track my time during the bootcamp/work and any independant projects. 
+**WEEK 35: 12/30/2019 - 01/05/2020: 4hrs 8mins**
+-   Since I am enrolling into a [bootcamp](https://launchacademy.com/), I guess posting to the [autodidact](https://ann-codes.github.io/autodidact/) will no longer be completely true. I've created a new [learning notes](https://ann-codes.github.io/learning-notes/) repo in the same format so that I can track my time during the bootcamp/work and any independant projects. 
 -   I also ["restarted"](https://twitter.com/AnnCodes/status/1212537570019725313) a new round of #100DaysOfCode as of 1/1/20. Given the breaks from the last 3 weeks, it felt silly to have that big of a gap while continuing the 100 days. I am officially ending it at **245 Consecutive Days** even though it was probaly something like 257 consecutive days if you actually count watching CS videos in bed for 10 mins or so before passing out from exhaustion. 
 -   I skipped days 12/30-12/31 since I was flying back and then jetlagged those days. 
--   This week is all up about catching up to and finishing the LaunchAcademy precourse work. 
+-   This week is all up about catching up to and finishing the LaunchAcademy precourse work and getting ready for next week!
 
 **WEEK PAUSED: 12/23 - 12/29: 3hrs 14mins**
 -   I am pausing the #100DaysOfCode this week due to the holidays and a mini-vacation my husband planned to Las Vegas. 
